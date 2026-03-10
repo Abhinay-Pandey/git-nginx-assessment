@@ -1,1 +1,1 @@
-#Git & NGINX Assessment Name : MainWq
+#Git & NGINX Assessment Name : Conflict Version
