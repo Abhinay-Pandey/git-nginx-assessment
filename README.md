@@ -1,1 +1,1 @@
-#Git & NGINX Assessment Name : Conflict Version
+# Git and NGINX Assessment - Main Version
